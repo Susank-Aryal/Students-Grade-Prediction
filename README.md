@@ -37,7 +37,10 @@ predicting future student performance
 --> To purpose of the best machine learning algorithm for predicting a student's grade
 
 ## Visualization Dashboard
+![gh](https://user-images.githubusercontent.com/66167662/125063705-88a07000-e0cf-11eb-88cc-b196aaa4931f.PNG)
+
 https://datastudio.google.com/reporting/08856fc2-ad03-47d8-bdc2-89922f35ad21
 
 ## Streamlit Model
+![Capture](https://user-images.githubusercontent.com/66167662/125063717-8ccc8d80-e0cf-11eb-959d-c1b5acf3574c.PNG)
 https://grade-prediction-app.herokuapp.com/
