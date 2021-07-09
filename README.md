@@ -43,4 +43,5 @@ https://datastudio.google.com/reporting/08856fc2-ad03-47d8-bdc2-89922f35ad21
 
 ## Streamlit Model
 ![Capture](https://user-images.githubusercontent.com/66167662/125063717-8ccc8d80-e0cf-11eb-959d-c1b5acf3574c.PNG)
+
 https://grade-prediction-app.herokuapp.com/
