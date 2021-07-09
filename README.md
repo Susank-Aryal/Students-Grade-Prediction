@@ -2,9 +2,9 @@
 Final Year Dissertation On student's Grade prediction submitted to university of Northampton
 
 In respect to the major aims of this study, which is to propose an appropriate machine learning 
-algorithm for successful prediction of student’s future grade the other aims are to,
+algorithm for successful prediction of student’s future grade the other aims are to
 
--->Perform an exploratory data analysis in order to detect missing values, outliers, 
+--> Perform an exploratory data analysis in order to detect missing values, outliers, 
 understanding the structure of data, estimating parameters and figuring out the margins of 
 error.
 --> Present an easy to read and access analyze visualization dashboard after performing the 
